@@ -1,0 +1,3 @@
+/home/zhizhou/Codes/cs5330/project1/CMakeFiles/rebuild_cache.dir
+/home/zhizhou/Codes/cs5330/project1/CMakeFiles/DisplayVideo.dir
+/home/zhizhou/Codes/cs5330/project1/CMakeFiles/edit_cache.dir
